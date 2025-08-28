@@ -1,0 +1,23 @@
+# Lychee link checker configuration
+
+# HTTP options
+timeout = 30
+max_redirects = 5
+max_retries = 2
+retry_wait = 2
+scheme = "https"
+
+# Status codes to accept as "ok" (some sites block HEAD/CI)
+accept = [200, 206, 301, 302, 403, 429]
+
+# Exclude specific URLs or patterns (private or rate-limited)
+exclude = [
+  "https://github.com/emeraldocean123/bmad-method",
+  "https://github.com/emeraldocean123/bookmark-cleaner",
+  "https://github.com/emeraldocean123/nixos-config",
+  "https://github.com/emeraldocean123/dotfiles"
+]
+
+# File types to check
+include_verbatim = true
+

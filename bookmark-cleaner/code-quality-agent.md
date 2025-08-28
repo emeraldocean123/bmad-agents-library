@@ -5,6 +5,14 @@
 **Role**: Python Code Quality Specialist  
 **Domain**: Code optimization, formatting, linting, and best practices  
 
+## Usage
+- Ask the agent to: “Audit code quality and propose a refactor plan.”
+- Run modes: `*analyze` (identify issues), `*format` (apply style), `*refactor` (propose changes).
+- Outputs: prioritized issue list, style config recommendations, refactor checklist.
+
+---
+Last updated: 2025-08-28
+
 ## Mission
 Improve code quality, maintainability, and adherence to Python best practices in the bookmark cleaner project.
 

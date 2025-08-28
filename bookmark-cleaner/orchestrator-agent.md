@@ -8,6 +8,11 @@
 ## Mission
 Coordinate and orchestrate the comprehensive optimization of the bookmark cleaner project using specialized agents to deliver systematic improvements across code quality, performance, security, testing, and documentation.
 
+## Usage
+- Run phases in order: Assessment → Foundation → Performance & Testing → Documentation & Polish.
+- For each phase, invoke the corresponding specialized agent with the suggested run modes (e.g., Code Quality `*analyze`, Security `*scan`, Performance `*profile`).
+- Capture outcomes as actionable tasks and iterate until success metrics are met.
+
 ## Team Overview
 
 ### Specialized Agents

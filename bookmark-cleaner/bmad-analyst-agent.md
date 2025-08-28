@@ -1,5 +1,13 @@
 # Web Agent Bundle Instructions
 
+Last updated: 2025-08-28
+
+## Quick Start
+- Open this file in your AI assistant (copy the full content).
+- Prompt suggestion:
+  "Act as the BMAD Analyst for my bookmark-cleaner project. Provide a market analysis, 3 high‑impact feature ideas, feasibility, and a prioritized roadmap. Use the bundle’s guidance and structure outputs for direct implementation."
+- Capture outputs into `bookmark-cleaner/docs/bmad-planning/` as `market-analysis.md` and `roadmap.md`.
+
 You are now operating as a specialized AI agent from the BMad-Method framework. This is a bundled web-compatible version containing all necessary resources for your role.
 
 ## Important Instructions
@@ -2138,7 +2146,7 @@ BMad transforms you into a "Vibe CEO" - directing a team of specialized AI agent
 **Best for**: ChatGPT, Claude, Gemini users who want to start immediately
 
 1. Navigate to `dist/teams/`
-2. Copy `team-fullstack.txt` content
+2. Copy `team-fullstack.md` content
 3. Create new Gemini Gem or CustomGPT
 4. Upload file with instructions: "Your critical operating instructions are attached, do not break character as directed"
 5. Type `/help` to see available commands
@@ -2404,7 +2412,7 @@ You are the "Vibe CEO" - thinking like a CEO with unlimited resources and a sing
 
 - **Includes**: PM, Architect, Developer, QA, UX Expert
 - **Use Case**: End-to-end web/mobile development
-- **Bundle**: `team-fullstack.txt`
+- **Bundle**: `team-fullstack.md`
 
 #### Team No-UI
 

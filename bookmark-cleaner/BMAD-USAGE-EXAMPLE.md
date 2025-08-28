@@ -5,13 +5,13 @@
 ### Step 1: Copy Agent to Your Project
 ```bash
 # Agent now available in your bookmark-cleaner directory
-ls bmad-analyst-agent.txt
+ls bmad-analyst-agent.md
 ```
 
 ### Step 2: Use Agent with Claude Code or Other AI Platform
 
 #### Option A: Copy & Paste the Agent Bundle
-1. Open `bmad-analyst-agent.txt` 
+1. Open `bmad-analyst-agent.md` 
 2. Copy entire contents to Claude/ChatGPT
 3. Use this prompt:
 
@@ -156,7 +156,7 @@ Provide complete technical specification with database design, API structure, an
 
 ```
 bookmark-cleaner/
-├── bmad-analyst-agent.txt      # Market research agent
+├── bmad-analyst-agent.md      # Market research agent
 ├── bmad-fullstack-team.txt     # Complete development team
 ├── docs/
 │   ├── bmad-planning/
@@ -173,7 +173,7 @@ bookmark-cleaner/
 
 ## 🚀 Next Steps
 
-1. **Try the Analyst**: Copy `bmad-analyst-agent.txt` to Claude and ask for market analysis
+1. **Try the Analyst**: Copy `bmad-analyst-agent.md` to Claude and ask for market analysis
 2. **Plan Features**: Use PM agent to create detailed requirements  
 3. **Design Architecture**: Get technical specifications from Architect agent
 4. **Create Stories**: Break work into manageable development tasks

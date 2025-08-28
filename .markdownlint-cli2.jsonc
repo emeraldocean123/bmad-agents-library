@@ -1,0 +1,9 @@
+{
+  // Configuration for markdownlint-cli2 (used by the GitHub Action)
+  "config": {
+    "MD013": false,
+    "MD033": false,
+    "MD041": false
+  }
+}
+

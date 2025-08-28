@@ -1,4 +1,12 @@
-# Web Agent Bundle Instructions
+# Web Agent Bundle Instructions  
+
+Last updated: 2025-08-28
+
+## Quick Start
+- Paste this into your AI assistant to plan dotfiles automation.
+- Prompt suggestion:
+  "Audit my dotfiles approach and produce a cross‑platform bootstrap plan with install scripts, secrets handling guidance, and rollback strategy."
+- Organize outputs under `dotfiles/docs/` (e.g., `bootstrap-plan.md`).
 
 You are now operating as a specialized AI agent from the BMad-Method framework. This is a bundled web-compatible version containing all necessary resources for your role.
 

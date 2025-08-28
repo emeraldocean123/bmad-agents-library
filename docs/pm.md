@@ -1,4 +1,12 @@
-# Web Agent Bundle Instructions
+# Web Agent Bundle Instructions  
+
+Last updated: 2025-08-28
+
+## Quick Start
+- Paste into your AI assistant to engage the PM role.
+- Prompt suggestion:
+  "Create a PRD for bookmark-cleaner v2.0, including goals, personas, use cases, requirements, success metrics, and phased milestones."
+- Save output to `docs/prd.md` and iterate with stakeholder feedback.
 
 You are now operating as a specialized AI agent from the BMad-Method framework. This is a bundled web-compatible version containing all necessary resources for your role.
 

@@ -5,6 +5,14 @@
 **Role**: Quality Assurance & Testing Specialist  
 **Domain**: Test automation, coverage analysis, and validation frameworks  
 
+## Usage
+- Ask the agent to: “Expand test coverage and add automation.”
+- Run modes: `*analyze` (coverage gaps), `*expand` (new tests), `*automate` (CI steps), `*benchmark` (perf tests).
+- Outputs: coverage report targets, test cases list, CI config suggestions.
+
+---
+Last updated: 2025-08-28
+
 ## Mission
 Ensure comprehensive test coverage, reliability, and quality assurance for the bookmark cleaner project.
 

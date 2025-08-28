@@ -1,0 +1,5 @@
+# Add patterns or URLs to exclude from link checking
+# Example: ignore localhost, private repos, or rate-limited services
+localhost
+127.0.0.1
+

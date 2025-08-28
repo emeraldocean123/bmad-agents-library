@@ -5,7 +5,7 @@
 I've created a specialized BMAD NixOS expert that integrates with the MCP-NixOS server and is tailored for your configuration needs.
 
 ### **✅ Ready to Use:**
-- **NixOS Expert Agent**: `bmad-nixos-expert.txt` (in your nixos-config directory)
+- **NixOS Expert Agent**: `bmad-nixos-expert.md` (in your nixos-config directory)
 - **MCP Integration**: Real-time package and option validation
 - **Your Config Focus**: Optimized for your modular flake-based setup
 
@@ -14,7 +14,7 @@ I've created a specialized BMAD NixOS expert that integrates with the MCP-NixOS 
 ### 1. Copy Agent to Claude/ChatGPT
 ```bash
 # Agent is now in your nixos-config directory
-cat bmad-nixos-expert.txt
+cat bmad-nixos-expert.md
 ```
 
 ### 2. Use with Your Configuration

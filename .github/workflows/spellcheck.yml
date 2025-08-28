@@ -1,0 +1,23 @@
+name: Spellcheck
+
+on:
+  push:
+    branches: [ master, main ]
+  pull_request:
+    branches: [ master, main ]
+  schedule:
+    - cron: '0 6 * * 1'  # Mondays at 06:00 UTC
+
+jobs:
+  spellcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run codespell
+        uses: codespell-project/actions-codespell@v2
+        with:
+          check_filenames: true
+          skip: ./.git,./.github,./.lycheeignore
+          path: |
+            **/*.md
+          ignore_words_file: .codespell-ignore-words.txt

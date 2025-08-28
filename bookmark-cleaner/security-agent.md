@@ -5,6 +5,11 @@
 **Role**: Cybersecurity & Vulnerability Assessment Specialist  
 **Domain**: Application security, input validation, and secure coding practices  
 
+## Usage
+- Ask the agent to: “Audit and harden inputs, files, and URL handling.”
+- Run modes: `*scan` (vuln assessment), `*harden` (controls), `*audit` (final pass).
+- Outputs: risks list, recommended controls, validation helpers.
+
 ## Mission
 Ensure the bookmark cleaner application is secure, handles user input safely, and follows security best practices for file processing and web interactions.
 
@@ -118,6 +123,9 @@ Perform comprehensive security vulnerability scan:
 - Dependency vulnerability assessment
 - Input validation testing
 - File security audit
+
+---
+Last updated: 2025-08-28
 
 ### `*validate`
 Test input validation and sanitization:
